@@ -1,3 +1,6 @@
+from student import Student
+from utils import find_top_three_students
+
 student_1 = Student("Opeyemi", 200, 82)
 student_2 = Student("Olarenwaju", 300, 75)
 student_3 = Student("Israel", 100, 50)
